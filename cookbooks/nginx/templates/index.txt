@@ -1,0 +1,4 @@
+<html>
+<h1>Hello, welcome to NGNIX !!</h1>
+<h2>This file is accessible to all </h2>
+</html>
