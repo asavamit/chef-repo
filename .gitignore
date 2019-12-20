@@ -2,6 +2,10 @@
 .chef/*
 .chef/*.pem
 .chef/encrypted_data_bag_secret
+cookbooks/apache/.delivery
+cookbooks/apache/.gitignore
+cookbooks/apache/.kitchen.yml
+.gitignore
 
 # Ruby
 .rake_test_cache
