@@ -1,4 +1,0 @@
-AuthName "Restricted HTML"
-AuthUserFile /usr/share/nginx/security/.htpasswd
-AuthType Basic
-require valid-user
